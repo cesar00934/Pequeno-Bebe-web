@@ -1,0 +1,14 @@
+{
+  "name": "Pequeño Bebé Huacho",
+  "short_name": "Pequeño Bebé",
+  "description": "Bicicletas, coches, carritos a batería, scooters y artículos infantiles en Huacho.",
+  "lang": "es-PE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#071a36",
+  "icons": [
+    {"src": "assets/brand-wordmark-v2-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/brand-wordmark-v2-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://pequeno-bebe.vercel.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://pequeno-bebe.vercel.app/assets/brand-wordmark-v2-512.png</image:loc>
+      <image:title>Pequeño Bebé Huacho</image:title>
+      <image:caption>Identidad circular creada desde el logo original de Pequeño Bebé en Huacho</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pequeno-bebe.vercel.app/assets/products/PORTADA.webp</image:loc>
+      <image:title>Tienda Pequeño Bebé en Huacho</image:title>
+      <image:caption>Fachada de Pequeño Bebé, Jirón La Merced 139, Huacho</image:caption>
+    </image:image>
+  </url>
+</urlset>

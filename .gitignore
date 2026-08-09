@@ -1,0 +1,7 @@
+# Originales pesados; la web publica las versiones optimizadas de assets/products.
+img/
+
+# Archivos locales del sistema y herramientas.
+Thumbs.db
+.DS_Store
+*.log
